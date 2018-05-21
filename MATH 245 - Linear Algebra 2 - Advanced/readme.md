@@ -1,3 +1,5 @@
+# MATH 245 - Linear Algebra 2 (Advanced)
+
 The following is the first edition of a set of notes produced during MATH 245 in the Fall of 2017 at the University of
 Waterloo. They were produced by combining the proofs provided in the lectures and the supplementary textbook,
 Linear Algebra by Friedberg, Insel, and Spence.
