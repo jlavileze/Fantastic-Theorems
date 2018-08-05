@@ -4,7 +4,7 @@ The following is the first edition of a set of notes produced during MATH 245 in
 Waterloo. They were produced by combining the proofs provided in the lectures and the supplementary textbook,
 Linear Algebra by Friedberg, Insel, and Spence.
 
-In each chapter you will and that I have outlined the essential structure required to pass the course's nal
+In each chapter you will and that I have outlined the essential structure required to pass the course's final
 exam. The theorems you will and in the latter part of each chapter are usually exercises from the book which
 may be harder to prove off-the-cuff under exam conditions.
 
